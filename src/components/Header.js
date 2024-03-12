@@ -11,7 +11,7 @@ const Header=()=>{
         <div className='flex justify-between items-center ml-36 mr-36'>
             <div className='flex'>
                 <img src={logo} alt='log-image' className='rounded-full w-20 mt-4'/>
-                <span className='mt-8 ml-2 text-3xl text-blue-700 font-serif'>SankalpCoaching</span>
+                <span className='mt-8 ml-2 text-3xl font-serif'>SankalpCoaching</span>
             </div>
             <div>
                 <ul className='flex'>
