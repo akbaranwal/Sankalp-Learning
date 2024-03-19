@@ -7,6 +7,7 @@ const Header=()=>{
     const searchBoxHandler=()=>{
         setShowSearchBox(!showSearchBox);
     }
+    
     return (
         <div className='flex justify-between items-center ml-36 mr-36'>
             <div className='flex'>
